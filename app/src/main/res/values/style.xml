@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CardViewTitle">
+        <item name="android:background"></item>
+    </style>
+
+    <style name="ButtonBattery" parent="@style/Widget.AppCompat.Button.Colored">
+
+
+
+    </style>
+</resources>
